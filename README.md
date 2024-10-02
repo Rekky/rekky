@@ -1,9 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+### Some of my projects:
+- Generador de Presupuestos
+https://calseb.com/presupuesto
+
+- (simulador) web video streaming
+https://videovault-psi.vercel.app/home
 
 <!--
 **Rekky/rekky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
