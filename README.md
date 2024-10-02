@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Some of my projects:
+### Algunos de mis proyectos:
 - Generador de Presupuestos
 https://calseb.com/presupuesto
 
