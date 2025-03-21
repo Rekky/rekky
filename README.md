@@ -2,7 +2,7 @@
 
 ### Algunos de mis proyectos:
 - Generador de Presupuestos
-https://calseb.com/presupuesto
+https://calseb.com/
 
 - (simulador) web video streaming
 https://videovault-psi.vercel.app/home
